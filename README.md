@@ -1,2 +1,3 @@
 # CSDL
-Financial and Economic Data Applications
+Financial and Economic Data Application
+Bao gồm file latex + jupyter 
